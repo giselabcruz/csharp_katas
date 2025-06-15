@@ -10,14 +10,9 @@ namespace FizzBuzz
             
         }
 
-        public static string CheckIsFizz(int number)
+        private static string CheckIsFizz(int number)
         {
-            if (number % 3 == 0)
-            {
-                return "Fizz";
-            }
-
-            return number.ToString();
+            return number % 3 == 0 ? "Fizz" : number.ToString();
         }
     }
 }
