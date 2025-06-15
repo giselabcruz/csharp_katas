@@ -6,7 +6,7 @@ namespace FizzBuzz
     {
         public static string CheckNumber(int number)
         {
-            return "";
+            return "Fizz";
         }
     }
 }
