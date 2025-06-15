@@ -1,0 +1,12 @@
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.deps.json
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.dll
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/bin/Debug/net8.0/FizzBuzz.pdb
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.AssemblyInfo.cs
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.sourcelink.json
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.dll
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/refint/FizzBuzz.dll
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/FizzBuzz.pdb
+/Users/giselabelmontecruz/RiderProjects/csharp_katas/fizz-buzz/FizzBuzz/obj/Debug/net8.0/ref/FizzBuzz.dll
