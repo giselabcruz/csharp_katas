@@ -6,7 +6,18 @@ namespace FizzBuzz
     {
         public static string CheckNumber(int number)
         {
-            return "Fizz";
+            return CheckIsFizz(number);
+            
+        }
+
+        public static string CheckIsFizz(int number)
+        {
+            if (number % 3 == 0)
+            {
+                return "Fizz";
+            }
+
+            return number.ToString();
         }
     }
 }
