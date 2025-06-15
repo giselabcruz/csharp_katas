@@ -32,6 +32,15 @@ namespace FizzBuzz.Tests
             
             Assert.AreEqual(expectedNumber, "1");
         }
-        
+
+        [Test]
+        public void Check_number_is_multiple_of_five()
+        {
+            var number = 5;
+            
+            var expectedNumber = FizzBuzz.CheckNumber(number);
+            
+            Assert.AreEqual(expectedNumber, "Buzz");
+        }
     }
 }
