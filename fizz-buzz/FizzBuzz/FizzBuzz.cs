@@ -1,9 +1,17 @@
 ﻿using System;
+using System.Security.AccessControl;
 
 namespace FizzBuzz
 {
     public class FizzBuzz
     {
+        public static void Run()
+        {
+            for (int i = 1; i <= 100; i++)
+            {
+                System.Console.WriteLine(CheckNumber(i));
+            }
+        }
         public static string CheckNumber(int number)
         {
             if (CheckIsBuzz(number) && CheckIsFizz(number)) {
