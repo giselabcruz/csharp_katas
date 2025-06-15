@@ -6,6 +6,10 @@ namespace FizzBuzz
     {
         public static string CheckNumber(int number)
         {
+            if (CheckIsBuzz(number) && CheckIsFizz(number)) {
+                return "FizzBuzz";
+            }
+            
             if (CheckIsFizz(number))
             {
                 return "Fizz";
